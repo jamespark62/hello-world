@@ -86,11 +86,5 @@
             <artifactId>javax.servlet-api</artifactId>
             <version>3.0.1</version>            
         </dependency>
-	    
-	<dependency>
-            <groupId>jp.shiftinc.jenkins.plugins</groupId>
-            <artifactId>discard-old-build</artifactId>
-            <version>1.05</version>
-        </dependency>
     </dependencies>
 </project>
